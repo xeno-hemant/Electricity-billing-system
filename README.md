@@ -6,9 +6,9 @@ A beginner-friendly **C++ console project** that manages electricity consumers, 
 
 | Module | Developer | File | Responsibility |
 |---|---|---|---|
-| **Module 1** | Hemant Gurjar | `module1_consumer.cpp` | Consumer management – add, show, search, delete consumers |
-| **Module 2** | Hemant Khandelwal | `module2_billing.cpp` | Billing – tariff slabs, bill calculation, generate / view bill, tariff chart |
-| **Module 3** | Himanshi Pancholi | `module3_payment.cpp` | Payment – accept full/partial payment, receipt, pending dues |
+| **Module 1** | Hemant Gurjar | `module1_consumer.cpp` | Consumer management - add, show, search, delete consumers |
+| **Module 2** | Hemant Khandelwal | `module2_billing.cpp` | Billing - tariff slabs, bill calculation, generate / view bill, tariff chart |
+| **Module 3** | Himanshi Pancholi | `module3_payment.cpp` | Payment - accept full/partial payment, receipt, pending dues |
 | **Module 4** | Harshpal Singh | `module4_storage_main.cpp` | File handling (save/load), summary report, main menu |
 
 `common.h` is the shared header: it holds the `Consumer` class declaration and the list of functions of every module.
