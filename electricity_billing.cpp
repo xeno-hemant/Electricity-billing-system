@@ -1,6 +1,6 @@
 /*
  * ===========================================================
- *   POWERGRID - Electricity Billing System  (C++ / OOP Lab)
+ *   Electricity Billing System  (C++ / OOP Lab)
  * ===========================================================
  *   Team Members:
  *     1. Hemant Gurjar
