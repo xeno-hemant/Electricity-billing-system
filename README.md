@@ -7,8 +7,7 @@ A menu-driven C++ console application that handles customer registration, slab-b
 3. Himanshi Pancholi
 4. Harshpal Singh
 ## ✨ Features
-### Register customers in three categories:
-- Domestic, Commercial, Industrial
+- Register customers in three categories: Domestic, Commercial, Industrial
 - Search customers by name or phone;
 - list and remove customers
 - Generate monthly bills from meter readings (validates readings, blocks duplicate months)
